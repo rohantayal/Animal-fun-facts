@@ -1,4 +1,4 @@
-import { animals } from "animals";
+import { animals } from "animals.js";
 import React from "react";
 import { createRoot } from "react-dom/client";
 
