@@ -8,7 +8,7 @@ const root = createRoot(container);
 const title = "";
 
 const background = (
-  <img className="background" alt="ocean" src="/images/ocean.jpg" />
+  <img className="background" src="/images/ocean.jpg" alt="ocean"  />
 );
 
 function displayFact(e) {
